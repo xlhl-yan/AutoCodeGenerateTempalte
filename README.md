@@ -1,1 +1,1 @@
-"# AutoCodeGenerateTempalte" 
+# AutoCodeGenerateTemplate
