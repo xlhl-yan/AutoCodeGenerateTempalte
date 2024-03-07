@@ -1,6 +1,6 @@
-### xlhl Custom template
+### Custom template
 .idea
-*.iml
+AutoCodeGenerateTempalte.iml
 
 ### Java template
 # Compiled class file
