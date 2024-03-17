@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class MainTemplate {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("已空格分隔 每个数字求和：");
+        System.out.println("以空格分隔 每个数字求和：");
         while (scanner.hasNext()) {
             String inputStr = scanner.nextLine();
             String[] inputNum = inputStr.split(" ");
